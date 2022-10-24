@@ -175,6 +175,24 @@
       />
       <br /><strong>D3</strong>
     </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://seeklogo.com/images/H/highcharts-logo-B82D186525-seeklogo.com.png?v=637829616030000000"
+        width="48"
+        height="48"
+        alt="Highcharts"
+      />
+      <br /><strong>Highcharts</strong>
+    </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://seeklogo.com/images/Q/qgis-logo-E3C8191C7F-seeklogo.com.png"
+        width="48"
+        height="48"
+        alt="Qgis"
+      />
+      <br /><strong>Qgis</strong>
+    </td>
   </tr>
   
   <tr>
@@ -207,7 +225,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://webpack.js.org/site-logo.1fcab817090e78435061.svg"
+        src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png"
         width="48"
         height="48"
         alt="Webpack"
@@ -219,16 +237,16 @@
   <tr>
       <td align="center" height="108" width="108">
       <img
-        src="https://mosquitto.org/images/mosquitto-text-side-28.png"
+        src="https://training.cherriz.de/cherriz-training/1.0.0/serviceorientierung/_images/mosquitto_logo.png"
         width="48"
-        height="24"
+        height="48"
         alt="Mosquitto"
       />
       <br /><strong>Mosquitto</strong>
     </td>
       <td align="center" height="108" width="108">
       <img
-        src="https://www.rabbitmq.com/img/logo-rabbitmq.svg"
+        src="https://seeklogo.com/images/R/rabbitmq-logo-25641A76DE-seeklogo.com.png"
         width="48"
         height="48"
         alt="RabbitMQ"
@@ -257,7 +275,7 @@
   <tr>
      <td align="center" height="108" width="108">
       <img
-        src="https://cdn-images-1.medium.com/max/776/1*du7p50wS_fIsaC_lR18qsg@2x.png"
+        src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png"
         width="48"
         height="48"
         alt="FastAPI"
@@ -266,7 +284,7 @@
     </td>
      <td align="center" height="108" width="108">
       <img
-        src="https://sarobartech.com/media/blog/python--django.png"
+        src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/django-fill-256.png"
         width="48"
         height="48"
         alt="Django"
