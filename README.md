@@ -152,12 +152,115 @@
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
-    </td>
+    </td>   
+  </tr>
    
+  <tr>
+    <td></td>
+   <td align="center" height="108" width="108">
+      <img
+        src="https://i.dlpng.com/static/png/7044160_preview.png"
+        width="48"
+        height="48"
+        alt="JQUERY"
+      />
+      <br /><strong>jQuery</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://pbs.twimg.com/profile_images/833789473376854018/skScegH6_400x400.jpg"
+        width="48"
+        height="48"
+        alt="EJS"
+      />
+      <br /><strong>EJS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+        width="48"
+        height="48"
+        alt="BABEL"
+      />
+      <br /><strong>Babel</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png"
+        width="48"
+        height="48"
+        alt="Webpack"
+      />
+      <br /><strong>Webpack</strong>
+    </td>    
+      <td align="center" height="108" width="108">
+      <img
+        src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png"
+        width="48"
+        height="48"
+        alt="FastAPI"
+      />
+      <br /><strong>FastAPI</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/django-fill-256.png"
+        width="48"
+        height="48"
+        alt="Django"
+      />
+      <br /><strong>Django</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/symfony-256.png"
+        width="48"
+        height="48"
+        alt="Symfony"
+      />
+      <br /><strong>Symfony</strong>
+    </td>
   </tr>
   
   <tr>
-   <td align="center" height="108" width="108">
+    <td></td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://training.cherriz.de/cherriz-training/1.0.0/serviceorientierung/_images/mosquitto_logo.png"
+        width="48"
+        height="48"
+        alt="Mosquitto"
+      />
+      <br /><strong>Mosquitto</strong>
+    </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://seeklogo.com/images/R/rabbitmq-logo-25641A76DE-seeklogo.com.png"
+        width="48"
+        height="48"
+        alt="RabbitMQ"
+      />
+      <br /><strong>RabbitMQ</strong>
+    </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://iconape.com/wp-content/png_logo_vector/webrtc.png"
+        width="48"
+        height="48"
+        alt="WebRTC"
+      />
+      <br /><strong>WebRTC</strong>
+    </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://www.digitalcrafts.com/sites/default/files/django.png"
+        width="48"
+        height="48"
+        alt="WebSocket"
+      />
+      <br /><strong>WebSocket</strong>
+    </td>
+     <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/220px-Three.js_Icon.svg.png"
         width="48"
@@ -195,112 +298,6 @@
     </td>
   </tr>
   
-  <tr>
-   <td align="center" height="108" width="108">
-      <img
-        src="https://i.dlpng.com/static/png/7044160_preview.png"
-        width="48"
-        height="48"
-        alt="JQUERY"
-      />
-      <br /><strong>jQuery</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://pbs.twimg.com/profile_images/833789473376854018/skScegH6_400x400.jpg"
-        width="48"
-        height="48"
-        alt="EJS"
-      />
-      <br /><strong>EJS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-        width="48"
-        height="48"
-        alt="BABEL"
-      />
-      <br /><strong>Babel</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png"
-        width="48"
-        height="48"
-        alt="Webpack"
-      />
-      <br /><strong>Webpack</strong>
-    </td>    
-  </tr>
-  
-  <tr>
-      <td align="center" height="108" width="108">
-      <img
-        src="https://training.cherriz.de/cherriz-training/1.0.0/serviceorientierung/_images/mosquitto_logo.png"
-        width="48"
-        height="48"
-        alt="Mosquitto"
-      />
-      <br /><strong>Mosquitto</strong>
-    </td>
-      <td align="center" height="108" width="108">
-      <img
-        src="https://seeklogo.com/images/R/rabbitmq-logo-25641A76DE-seeklogo.com.png"
-        width="48"
-        height="48"
-        alt="RabbitMQ"
-      />
-      <br /><strong>RabbitMQ</strong>
-    </td>
-      <td align="center" height="108" width="108">
-      <img
-        src="https://iconape.com/wp-content/png_logo_vector/webrtc.png"
-        width="48"
-        height="48"
-        alt="WebRTC"
-      />
-      <br /><strong>WebRTC</strong>
-    </td>
-      <td align="center" height="108" width="108">
-      <img
-        src="https://www.digitalcrafts.com/sites/default/files/django.png"
-        width="48"
-        height="48"
-        alt="WebSocket"
-      />
-      <br /><strong>WebSocket</strong>
-  </tr>
-  
-  <tr>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png"
-        width="48"
-        height="48"
-        alt="FastAPI"
-      />
-      <br /><strong>FastAPI</strong>
-    </td>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/django-fill-256.png"
-        width="48"
-        height="48"
-        alt="Django"
-      />
-      <br /><strong>Django</strong>
-    </td>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/symfony-256.png"
-        width="48"
-        height="48"
-        alt="Symfony"
-      />
-      <br /><strong>Symfony</strong>
-    </td>
-  </tr>
    
   <tr>
     <td>Databases</td>
