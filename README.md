@@ -19,19 +19,9 @@
 <br>
 
 # :computer: Technologies & Tools:
-
 <table>  
   <tr>
     <td>Languages</td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML</strong>
-    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -153,7 +143,41 @@
       />
       <br /><strong>SASS</strong>
     </td>
-    <td align="center" height="108" width="108">
+   <td align="center" height="108" width="108">
+      <img
+        src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/576/bootstrap-256.png"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
+   
+  </tr>
+  
+  <tr>
+   <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/220px-Three.js_Icon.svg.png"
+        width="48"
+        height="48"
+        alt="ThreeJs"
+      />
+      <br /><strong>ThreeJs</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://dwglogo.com/wp-content/uploads/2017/10/D3_js_logo-1024x705.png"
+        width="48"
+        height="48"
+        alt="D3"
+      />
+      <br /><strong>D3</strong>
+    </td>
+  </tr>
+  
+  <tr>
+   <td align="center" height="108" width="108">
       <img
         src="https://i.dlpng.com/static/png/7044160_preview.png"
         width="48"
@@ -179,6 +203,86 @@
         alt="BABEL"
       />
       <br /><strong>Babel</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://webpack.js.org/site-logo.1fcab817090e78435061.svg"
+        width="48"
+        height="48"
+        alt="Webpack"
+      />
+      <br /><strong>Webpack</strong>
+    </td>
+   
+    </td>
+ 
+  </tr>
+  
+  <tr>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://mosquitto.org/images/mosquitto-text-side-28.png"
+        width="48"
+        height="24"
+        alt="Mosquitto"
+      />
+      <br /><strong>Mosquitto</strong>
+    </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://www.rabbitmq.com/img/logo-rabbitmq.svg"
+        width="48"
+        height="48"
+        alt="RabbitMQ"
+      />
+      <br /><strong>RabbitMQ</strong>
+    </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://iconape.com/wp-content/png_logo_vector/webrtc.png"
+        width="48"
+        height="48"
+        alt="WebRTC"
+      />
+      <br /><strong>WebRTC</strong>
+    </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://www.digitalcrafts.com/sites/default/files/django.png"
+        width="48"
+        height="48"
+        alt="WebSocket"
+      />
+      <br /><strong>WebSocket</strong>
+  </tr>
+  
+  <tr>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn-images-1.medium.com/max/776/1*du7p50wS_fIsaC_lR18qsg@2x.png"
+        width="48"
+        height="48"
+        alt="FastAPI"
+      />
+      <br /><strong>FastAPI</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://sarobartech.com/media/blog/python--django.png"
+        width="48"
+        height="48"
+        alt="Django"
+      />
+      <br /><strong>Django</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://symfony.com/images/opengraph/symfony.png"
+        width="48"
+        height="48"
+        alt="Symfony"
+      />
+      <br /><strong>Symfony</strong>
     </td>
   </tr>
    
