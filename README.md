@@ -10,7 +10,7 @@
 
 # 📈 Stats:
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vlad-Lab319&langs_count=14&hide=yacc,shell&show_icons=true&locale=en&layout=compact" width="45%" alt="t-pirozzini"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vlad-Lab319&langs_count=14&hide=yacc,shell&show_icons=true&locale=en&layout=compact" width="45%" alt="Vlad-Lab319"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vlad-Lab319&show_icons=true&locale=en" width="50%" alt="vladcoder" />  
   
@@ -19,6 +19,7 @@
 <br>
 
 # :computer: Technologies & Tools:
+
 <table>  
   <tr>
     <td>Languages</td>
@@ -212,10 +213,7 @@
         alt="Webpack"
       />
       <br /><strong>Webpack</strong>
-    </td>
-   
-    </td>
- 
+    </td>    
   </tr>
   
   <tr>
@@ -277,7 +275,7 @@
     </td>
      <td align="center" height="108" width="108">
       <img
-        src="https://symfony.com/images/opengraph/symfony.png"
+        src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/symfony-256.png"
         width="48"
         height="48"
         alt="Symfony"
