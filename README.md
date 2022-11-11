@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Vladimir Eremenko (@Vlad-Lab319)
 - 👀 I’m interested in 3D modeling, traveling and cooking ))
-- 🌱 I’m currently learning ReactJs, Python and 3D visualization frameworks
+- 🌱 I’m currently developing my skills in ReactJs, Python and 3D visualization frameworks
 - 💞️ I’m looking to collaborate on creating a cool project
 - 📫 How to reach me [vladcoder.ca](https://www.vladcoder.ca/)
 
