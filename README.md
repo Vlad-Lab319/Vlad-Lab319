@@ -90,6 +90,15 @@
       />
       <br /><strong>NodeJS</strong>
     </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="REACT"
+      />
+      <br /><strong>React</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png"
@@ -107,15 +116,6 @@
         alt="RAILS"
       />
       <br /><strong>Rails</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="REACT"
-      />
-      <br /><strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
